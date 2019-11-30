@@ -65,10 +65,4 @@ void main() {
   elements[14] = 'nitrogen';
   print(elements.length);
   print(elements[12]);
-
-
-  
-
-  
-
   }
