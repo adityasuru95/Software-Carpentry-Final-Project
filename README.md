@@ -72,7 +72,7 @@ Even after trying the solutions given above, I was not able to resolve it. Will 
 
 # Things learnt
 
-1. Once the basic concepts are clear, most of the work is googling
+1. Once the basic concepts are clear, most of the work is googling and figuring how things work, dividing a big problem into smaller chunks, solving them individually and finally integrating them.
 2. If-else, lists, classes are the common things across all the languages, so it is quite easy to pick things up
 3. Classes is Very important. need special emphasis during the learning phase.
 
