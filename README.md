@@ -34,7 +34,7 @@ Transfer it to the mobile phone and install.
 There is only one screen, to keep things simple. Input the number of mice in the textfield (the full dash at the top)
 When you click on the blue button, the app will start listening. Say a number and it will appear on the blue button.
 
-![Faraday Screenshot, in action](https://github.com/sherlinci/Software-Carpentry-Final-Project/blob/master/beacon%20gradle%20issue.jpg)
+![Faraday Screenshot, in action](https://github.com/sherlinci/Software-Carpentry-Final-Project/blob/master/faraday%20screenshot%201.jpeg)
 
 ## How to download and clone the Faraday v1 repository / Check the code
 I worked on the main.dart file. In the faraday v1, go to lib directory. THere is the main.dart file. 
@@ -53,6 +53,11 @@ The remaining task to do is:
 ## Motivation
 This was my primary aim. But due to some technical issues which could not be resolved, I had to put this on hold. This is a smart SOS app. If a person cannot call 911 / ambulance in case of security / medical emergency (he is incapacitated / muggers...), all the person has to do is, open the app and click on the Medical / Security buttons. A signal will be sent to the nearest police / doctor. They will get a tracking number and will be able to track the live location of the victim. We can set signals like, 3 time press the button and the app will open so that the victim can do it without even looking at the phone.
 
+![Beacon screenshot 1](https://github.com/sherlinci/Software-Carpentry-Final-Project/blob/master/beacon%20screenshot%201.png)
+![beacon screenshot 2](https://github.com/sherlinci/Software-Carpentry-Final-Project/blob/master/beacon%20screeshot%202.png)
+
+THe buttons are very big, so that anywhere on the screen the victim presses, a button will be pressed. In case of an emergency they don't have to search for a button.
+
 ## Problems
 I made the basic multi-screen layout of the app, connected them using buttons. Only thing remaining was connecting the flutter app to the firebase cloud. Upon adding the google's json file, my app level build.gradle file was crashing. Due to which I was not able to continue further. This is a known problem in the programming community.
 https://github.com/flutter/flutter/issues/23777
@@ -62,6 +67,8 @@ https://stackoverflow.com/questions/55575122/android-studio-cannot-resolve-symbo
 https://github.com/flutter/flutter/issues/9867
 
 Even after trying the solutions given above, I was not able to resolve it. Will surely work on this in the near future.
+
+![Issue with the gradle file.](https://github.com/sherlinci/Software-Carpentry-Final-Project/blob/master/beacon%20gradle%20issue.jpg)
 
 # Things learnt
 
