@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Software-Carpentry-Final-Project
 
 
@@ -90,3 +91,11 @@ Even after trying the solutions given above, I was not able to resolve it. Will 
 =======
 # smartSOS
 >>>>>>> smartSOS/master
+=======
+This is the weekly challenge 3 for the software carpentry course. 
+
+The website and all may be quite bland, because I focused on the Lab 2 and the numpy. 
+
+Turns out, couldn't work that out either ! 
+
+>>>>>>> SoftwareCarpentryWC3/master
