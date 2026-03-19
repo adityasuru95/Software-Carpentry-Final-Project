@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Software-Carpentry-Final-Project
 
 
@@ -86,3 +87,6 @@ Even after trying the solutions given above, I was not able to resolve it. Will 
 6) Freecodecamp Dart course and other files.
 7) Misc medium.com files.
 
+=======
+# smartSOS
+>>>>>>> smartSOS/master
